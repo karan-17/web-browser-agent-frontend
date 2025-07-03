@@ -177,7 +177,6 @@ const QueryInterface: React.FC = () => {
           <p>
             Connected to: <code className="api-url">{apiUrl}</code>
           </p>
-          <p>Simple and clean FastAPI integration</p>
         </div>
       </div>
     </div>
