@@ -5,7 +5,7 @@ import { useState } from "react"
 import "./QueryInterface.css"
 
 const API_CONFIG = {
-  baseUrl: "http://3.110.165.195:8000", // Change to your FastAPI server URL
+  baseUrl: "https://3.110.165.195:8000", // Change to your FastAPI server URL
   endpoints: {
     query: "/ask",
   },
